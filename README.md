@@ -3,3 +3,5 @@
 Experiments with the Mallard BASIC interpreter for CP/M.
 
 Code is written on an Amstrad PCW 8256 then OCR transcribed to a PC to be committed to GitHub. Not very efficient, but I'm just having fun here.
+
+![mallard-basic](https://github.com/user-attachments/assets/2ddb40b1-3d7f-436d-8001-c134be214a8a)
