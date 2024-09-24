@@ -6,14 +6,18 @@ Code is written on an Amstrad PCW 8256 then OCR transcribed to a PC to be commit
 
 ![mallard-basic](https://github.com/user-attachments/assets/2ddb40b1-3d7f-436d-8001-c134be214a8a)
 
-## GUESS.BAS
+### GUESS.BAS
+
 Prompts the user to guess a number between 1 and 10.
 
-## HELLO.BAS
+### HELLO.BAS
+
 Prints "Hello, world!"
 
-## LOOP.BAS
+### LOOP.BAS
+
 Prints iterations of a loop.
 
-## NAME.BAS
+### NAME.BAS
+
 Prompts the user for their name then says hello.
