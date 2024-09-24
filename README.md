@@ -21,3 +21,7 @@ Prints iterations of a loop.
 ### NAME.BAS
 
 Prompts the user for their name then says hello.
+
+### TREE.BAS
+
+Draws a picture of a tree.
